@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 28%;
+	left: 18%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
@@ -123,7 +123,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 18%;
 }
 
 h1+p { 
@@ -139,7 +139,8 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 8%;
+	border-bottom: 1px solid #eaecef;
 }
 
 h2+p {
