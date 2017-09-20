@@ -8,7 +8,7 @@ Professional Engineer
 
 
 ## Experience
-- **Peterson Pacific** (Eugene, OR), Engineer 4, _6/13  Present_
+- **Peterson Pacific** (Eugene, OR), Engineer 4, _6/13 - Present_
   - Lead engineer for the disc chipper and flail product lines 
   - Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models
   - Lead a team a two designers and work closely with hydraulic, electrical and control engineering
@@ -25,30 +25,23 @@ Professional Engineer
   - Instruction of finite element analysis theory and application
   - Over 75+ successful projects ranging from linear stress analysis of simple parts to shock and vibration analysis of flight electronics to ASME pressure vessel certification
 
-- **Peterson Pacific** (Eugene, OR), Mechanical Design Engineer, _10/07  02/12_
+- **Peterson Pacific** (Eugene, OR), Mechanical Design Engineer, _10/07 - 02/12_
   - Finite element modeling and analysis of machinery
   - New product development and design of mechanical systems
   - Developed 3D models and drawings for new designs with Autodesk Inventor
 
-- **Country Coach** (Junction City, OR), Mechanical Engineer 1, _6/06 10/07_
+- **Country Coach** (Junction City, OR), Mechanical Engineer 1, _6/06 - 10/07_
   - Designed structural chassis parts, engine tubing, and hydraulic system components
   - Extensive 3D modeling with Autodesk Inventor
   - Facilitate and oversee engine cooling tests with engine manufacturer
   
-- **General Electric** (Corvallis, Or), Design Engineer, _5/05 5/06_
+- **General Electric** (Corvallis, Or), Design Engineer, _5/05 - 5/06_
   - Designed parts for pan, tilt, zoom security cameras
   - Extensive 3D modeling with Autodesk Inventor
   - Sourced parts and suppliers
 
 ## Technical Skills
-- Finite Element Analysis
-  - Linear Static
-  - Non-Linear Static
-  - Dynamic Frequency Sweep
-  - Random Vibration
-  - Non-linear Hyperelastic Materials
-  - Modal Analysis
-  - NX Nastran
+- Finite Element Analysis (Linear Static, Non-Linear Static, Dynamic Frequency Sweep, Random Vibration, Non-linear Hyperelastic Materials, Modal Analysis, NX Nastran)
 - Autodesk Inventor
 - Siemens NX
 - CFD
