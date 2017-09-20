@@ -1,17 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nathan Anderson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nathan Anderson
+Professional Engineer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
+## Experience 
 
 Standing on the shoulders of giants
 
