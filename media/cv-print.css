@@ -136,9 +136,8 @@ h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 2em;
-	position: relative;
 	top: 1.2em;
-	text-align: right;
+	text-align: left;
 	width: 100%;
 	border-bottom: 1px solid #eaecef;
 }
