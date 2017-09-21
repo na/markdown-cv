@@ -91,13 +91,8 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-li ul li {
-	list-style: disc;
-}
-
 li {
-	/*second line indent
+	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
