@@ -59,4 +59,5 @@ Professional Engineer
 - **Licensed Engineer** Oregon, Cert # 78129PE
 
 ## References
-- Available upon request
+- **Terry Becker**, Engineering Manager, Peterson Pacific
+- **Larry Cumming**, President, Peterson Pacific
