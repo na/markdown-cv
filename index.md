@@ -59,4 +59,4 @@ Professional Engineer
 - **Licensed Engineer** Oregon, Cert # 78129PE
 
 ## References
-Available upon request
+- Available upon request
