@@ -58,3 +58,5 @@ Professional Engineer
 - **Willamette University** (Salem, Or), Physics, _1999-2001_
 - **Licensed Engineer** Oregon, Cert # 78129PE
 
+## References
+Available upon request
