@@ -17,6 +17,7 @@ Professional Engineer
   - Develop and oversee test plans and R&D research for the product line
   - Work closely with vendors to ensure proper quality and application of purchased parts
   - Stress analysis with FEA
+  - Warranty Review Committee member
   
 - **Peterson Pacific** (Eugene, OR), Structural Analyst, _6/13 - 6/14_
   - Stress analysis with FEA
