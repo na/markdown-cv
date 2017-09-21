@@ -8,7 +8,7 @@ Professional Engineer
 
 
 ## Experience
-- **Peterson Pacific** (Eugene, OR), Engineer 4, _6/13 - Present_
+- **Peterson Pacific** (Eugene, OR), Engineer 4, _6/14 - Present_
   - Lead engineer for the disc chipper and flail product lines 
   - Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models
   - Supervised a team of two designers and work closely with hydraulic, electrical and control engineering
@@ -17,8 +17,13 @@ Professional Engineer
   - Develop and oversee test plans and R&D research for the product line
   - Work closely with vendors to ensure proper quality and application of purchased parts
   - Stress analysis with FEA
-
-- **Predictive Engineering** (Portland, OR), Staff Engineer, _2/12 - Present_
+  
+- **Peterson Pacific** (Eugene, OR), Structural Analyst, _6/13 - 6/14_
+  - Stress analysis with FEA
+  - Worked closely with product engineers to analyze various components of Peterson machinery
+  - Strain gage testing
+  
+- **Predictive Engineering** (Portland, OR), Staff Engineer, _2/12 - 6/13_
   - Extensive use of FEA for stress analysis
   - CFD for thermal flow analysis
   - Technical support for Femap and NX CAE FEA software
