@@ -91,18 +91,14 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: Auto;
 	margin-top: 0.25em;
+	Padding-left: 2em;
+	list-style: disc;
 }
 
 h1,h2,h3,h4 {
