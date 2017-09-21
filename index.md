@@ -5,8 +5,6 @@ title: Nathan Anderson's CV
 # Nathan Anderson
 Professional Engineer
 
-
-
 ## Experience
 - **Peterson Pacific** (Eugene, OR), Engineer 4, _6/14 - Present_
   - Lead engineer for the disc chipper and flail product lines 
@@ -59,5 +57,5 @@ Professional Engineer
 - **Licensed Engineer** Oregon, Cert # 78129PE
 
 ## References
-- **Terry Becker**, Engineering Manager, Peterson Pacific
-- **Larry Cumming**, President, Peterson Pacific
+- **Terry Becker**, Engineering Manager, Peterson Pacific, _541-514-7164_
+- **Larry Cumming**, President, Peterson Pacific, _541-968-4446_
