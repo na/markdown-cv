@@ -85,20 +85,19 @@ p code {
 
 ul { 
 	left: 18%;
-	width: 65%;
+	width: 80%;
 	margin-bottom: 1em;
+	position:relative;
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
+li ul li {
+	list-style: disc;
+}
 
 li {
-	/*second line indent*/
+	/*second line indent
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
@@ -135,6 +134,7 @@ h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 2em;
+	margin-bottom: 0.5em;
 	top: 1.2em;
 	text-align: left;
 	width: 100%;
@@ -190,7 +190,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
