@@ -134,7 +134,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: rgb(247, 150, 70);
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -186,7 +186,13 @@ strong {
 	display: none;
 }
 
+#nathan-anderson-pe {
+	color: rgb(79, 129, 189);
+}
 
+code {
+	color: rgb(247, 150, 70);
+}
 
 /*
 @media only screen and (max-width: 480px) {
