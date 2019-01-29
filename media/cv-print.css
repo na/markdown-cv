@@ -75,7 +75,7 @@ code {
 	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: rgb(247, 150, 70);
 }
 
 p code {
@@ -124,13 +124,14 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: rgb(79, 129, 189);
 	margin-top: 2em;
 	margin-bottom: 0.5em;
 	top: 1.2em;
 	text-align: left;
 	width: 100%;
 	border-bottom: 1px solid #eaecef;
+	text-transform: uppercase;
 }
 
 h2+p {
@@ -182,4 +183,8 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
+}
+
+#nathan-anderson-pe {
+	color: rgb(79, 129, 189)
 }
