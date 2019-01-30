@@ -89,6 +89,9 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+	border-top: 2px solid lightgray;
+	border-left: 2px solid lightgray;
+	padding-top: .5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -108,14 +111,17 @@ li {
 li:before {
 	content: "\00BB \00BB";
 	color: rgb(247, 150, 70);
-	margin-right: 2 em;
+	margin: 10px;
+
+
 }
 
 li ul {
 	position: relative;
-	left: 2em;
+	left: 30px;
 	width: 100%;
 	margin-top: 0.25em;
+	border: none;
 }
 
 li ul li:before {
@@ -147,9 +153,9 @@ h2 {
 	color: rgb(79, 129, 189);
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: .5em;
 	text-align: right;
-	width: 20%;
+	width: 32%;
 }
 
 h3 {

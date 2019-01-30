@@ -9,7 +9,7 @@ Nathan.Anderson@PredictiveEngineering.com
 
 ## Focus
 
-Idealization of engineered structures and systems into predictive numerical models.
+- Idealization of engineered structures and systems into predictive numerical models.
 
 ## Education & Certifications
 
