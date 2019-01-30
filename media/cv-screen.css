@@ -106,12 +106,14 @@ li {
 }
 
 li:before {
-	content: "\00BB \00BB"
+	content: "\00BB \00BB";
+	color: rgb(247, 150, 70);
+	margin-right: 2 em;
 }
 
 li ul {
 	position: relative;
-	left: 0;
+	left: 2em;
 	width: 100%;
 	margin-top: 0.25em;
 }
