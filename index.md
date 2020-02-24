@@ -8,9 +8,9 @@ Nathan.Anderson@PetersonCorp.com
 541.689.6520 x126
 
 ## Focus
-Mechanical engineering from numerical analysis to heavy equipement design.
-Hands-on mechanical experience with industry standard software and machine tools.
-Idealization of engineered structures and systems into predictive numerical models.
+- Mechanical engineering from numerical analysis to heavy equipement design.
+- Hands-on mechanical experience with industry standard software and machine tools.
+- Idealization of engineered structures and systems into predictive numerical models.
 
 ## Education & Certifications
 
