@@ -4,17 +4,18 @@ title: Nathan Anderson's CV
 ---
 # Nathan Anderson `PE`
 
-Nathan.Anderson@PredictiveEngineering.com  
-503.206.5571 x130
+Nathan.Anderson@PetersonCorp.com  
+541.689.6520 x126
 
 ## Focus
-
+Mechanical engineering from numerical analysis to heavy equipement design.
+Hands-on mechanical experience with industry standard software and machine tools.
 Idealization of engineered structures and systems into predictive numerical models.
 
 ## Education & Certifications
 
-- B.S. Mechanical Engineering, Oregon State University,   2002-2006
-- Physics, Willamette University, 1999-2001
+- `2006` B.S. Mechanical Engineering, Oregon State University
+- `2001` Physics, Willamette University
 - Licensed Engineer, Oregon, Cert # 78129PE
 
 ## Experience
@@ -66,5 +67,6 @@ Idealization of engineered structures and systems into predictive numerical mode
 
 ## References
 
-- George Laird, Principal Mechanical Engineer, Predictive Engineering, 503.201.2688
+- Jody Volner, VP Operations Mobile Equipment, Astec Industries, 541.968.1955
 - Paul Clark, Engineering Manager, Peterson Pacific, 541.607.7901
+- George Laird, Principal Mechanical Engineer, Predictive Engineering, 503.201.2688
