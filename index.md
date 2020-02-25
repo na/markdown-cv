@@ -9,11 +9,8 @@ Nathan.Anderson@Petersoncorp.com
 
 ## Summary
 
-<<<<<<< HEAD
-=======
 - Mechanical engineering from numerical analysis to heavy equipement design.
 - Hands-on mechanical experience with industry standard software and machine tools.
->>>>>>> Peterson
 - Idealization of engineered structures and systems into predictive numerical models.
 
 ## Education
