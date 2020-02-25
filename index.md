@@ -59,7 +59,7 @@ Nathan.Anderson@Petersoncorp.com
 
 ## Teaching Experience
 
-- FEA Short courses (FEMAP and Simcenter3d) on finite element technology, dynamics, nonlinear analysis techniques and general FE modeling
+- FEA short courses (FEMAP and Simcenter3d) on finite element technology, dynamics, nonlinear analysis techniques and general FE modeling
 
 ## Patents
 
