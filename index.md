@@ -20,7 +20,7 @@ Nathan.Anderson@PredictiveEngineering.com
 
 ## Experience
 
-- `2013-Present` Peterson Pacific (Eugene, OR), Engineer 4
+- `2013 to Present`  **Peterson Pacific, Eugene, OR - Engineer 4**
   - Lead engineer for the disc chipper and flail product lines
   - Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models
   - Supervised a team of two designers and work closely with hydraulic, electrical and control engineering
@@ -31,24 +31,24 @@ Nathan.Anderson@PredictiveEngineering.com
   - Stress analysis with FEA
   - Warranty Review Committee member
   
-- `2012-Present` Predictive Engineering (Portland, OR), Staff Engineer
+- `2012`  **Predictive Engineering, Portland, OR - Staff Engineer**
   - Extensive use of FEA for stress analysis
   - CFD for thermal flow analysis
   - Technical support for Femap and NX CAE FEA software
   - Instruction of finite element analysis theory and application
   - Over 75+ successful projects ranging from linear stress analysis of simple parts to shock and vibration analysis of flight electronics to ASME pressure vessel certification
 
-- `2007-2012` Peterson Pacific (Eugene, OR), Mechanical Design Engineer
+- `2007`  **Peterson Pacific, Eugene, OR - Mechanical Design Engineer**
   - Finite element modeling and analysis of machinery
   - New product development and design of mechanical systems
   - Developed 3D models and drawings for new designs with Autodesk Inventor
 
-- `2006-2007` Country Coach (Junction City, OR), Mechanical Engineer 1
+- `2006`  **Country Coach, Junction City, OR - Mechanical Engineer 1**
   - Designed structural chassis parts, engine tubing, and hydraulic system components
   - Extensive 3D modeling with Autodesk Inventor
   - Facilitate and oversee engine cooling tests with engine manufacturer
   
-- `2005-2006` General Electric (Corvallis, Or), Design Engineer
+- `2005`  **General Electric, Corvallis, Or - Design Engineer**
   - Designed parts for pan, tilt, zoom security cameras
   - Extensive 3D modeling with Autodesk Inventor
   - Sourced parts and suppliers
@@ -60,6 +60,12 @@ Nathan.Anderson@PredictiveEngineering.com
 ## Teaching Experience
 
 - FEA Short courses (FEMAP and Simcenter3d) on finite element technology, dynamics, nonlinear analysis techniques and general FE modeling
+
+## Patents
+
+- Anderson, N., & Peterson, N., (2019). *Flail Chain Link with Interlocking Link Configuration*. (US 2019/0232521 A1). U.S. Patent and Trademark Office
+- Anderson, N., & Bulkeley, D., (2019). *Bark Removal Apparatus for Chipping Machine*. (US 2019/0291298 A1). U.S. Patent and Trademark Office
+- Anderson, N., & Windrim, M., (2018). *Adjustable Flail Assembly for Debarking Machine* (US 10,052,788 B2). U.S. Patent and Trademark Office
 
 ## Technical Skills
 
