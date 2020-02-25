@@ -209,6 +209,10 @@ code {
 	color: rgb(247, 150, 70);
 }
 
+#education li, #experience li {
+	list-style: none;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
