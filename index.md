@@ -15,43 +15,43 @@ Nathan.Anderson@Petersoncorp.com
 
 ## Education
 
-- `2006` B.S. Mechanical Engineering, Oregon State University
-- `2001` Physics, Willamette University
+1. `2006` B.S. Mechanical Engineering, Oregon State University
+2. `2001` Physics, Willamette University
 
 ## Experience
 
-- `2013 to Present`  **Peterson Pacific, Eugene, OR - Engineer 4**
-  - Lead engineer for the disc chipper and flail product lines
-  - Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models
-  - Supervised a team of two designers and work closely with hydraulic, electrical and control engineering
-  - Support sales and marketing with cost and detailed machine information
-  - Work closely with customers to development and improve equipment based on their needs
-  - Develop and oversee test plans and R&D research for the product line
-  - Work closely with vendors to ensure proper quality and application of purchased parts
-  - Stress analysis with FEA
-  - Warranty Review Committee member
+1. `2013 to Present`  **Peterson Pacific, Eugene, OR - Engineer 4**
+⋅⋅* Lead engineer for the disc chipper and flail product lines
+⋅⋅* Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models
+⋅⋅* Supervised a team of two designers and work closely with hydraulic, electrical and control engineering
+⋅⋅* Support sales and marketing with cost and detailed machine information
+⋅⋅* Work closely with customers to development and improve equipment based on their needs
+⋅⋅* Develop and oversee test plans and R&D research for the product line
+⋅⋅* Work closely with vendors to ensure proper quality and application of purchased parts
+⋅⋅* Stress analysis with FEA
+⋅⋅* Warranty Review Committee member
   
-- `2012`  **Predictive Engineering, Portland, OR - Staff Engineer**
-  - Extensive use of FEA for stress analysis
-  - CFD for thermal flow analysis
-  - Technical support for Femap and NX CAE FEA software
-  - Instruction of finite element analysis theory and application
-  - Over 75+ successful projects ranging from linear stress analysis of simple parts to shock and vibration analysis of flight electronics to ASME pressure vessel certification
+2. `2012`  **Predictive Engineering, Portland, OR - Staff Engineer**
+⋅⋅* Extensive use of FEA for stress analysis
+⋅⋅* CFD for thermal flow analysis
+⋅⋅* Technical support for Femap and NX CAE FEA software
+⋅⋅* Instruction of finite element analysis theory and application
+⋅⋅* Over 75+ successful projects ranging from linear stress analysis of simple parts to shock and vibration analysis of flight electronics to ASME pressure vessel certification
 
-- `2007`  **Peterson Pacific, Eugene, OR - Mechanical Design Engineer**
-  - Finite element modeling and analysis of machinery
-  - New product development and design of mechanical systems
-  - Developed 3D models and drawings for new designs with Autodesk Inventor
+3. `2007`  **Peterson Pacific, Eugene, OR - Mechanical Design Engineer**
+⋅⋅* Finite element modeling and analysis of machinery
+⋅⋅* New product development and design of mechanical systems
+⋅⋅* Developed 3D models and drawings for new designs with Autodesk Inventor
 
-- `2006`  **Country Coach, Junction City, OR - Mechanical Engineer 1**
-  - Designed structural chassis parts, engine tubing, and hydraulic system components
-  - Extensive 3D modeling with Autodesk Inventor
-  - Facilitate and oversee engine cooling tests with engine manufacturer
+4. `2006`  **Country Coach, Junction City, OR - Mechanical Engineer 1**
+⋅⋅* Designed structural chassis parts, engine tubing, and hydraulic system components
+⋅⋅* Extensive 3D modeling with Autodesk Inventor
+⋅⋅* Facilitate and oversee engine cooling tests with engine manufacturer
   
-- `2005`  **General Electric, Corvallis, Or - Design Engineer**
-  - Designed parts for pan, tilt, zoom security cameras
-  - Extensive 3D modeling with Autodesk Inventor
-  - Sourced parts and suppliers
+5. `2005`  **General Electric, Corvallis, Or - Design Engineer**
+⋅⋅* Designed parts for pan, tilt, zoom security cameras
+⋅⋅* Extensive 3D modeling with Autodesk Inventor
+⋅⋅* Sourced parts and suppliers
 
 ## Professional Activites
 
