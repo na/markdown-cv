@@ -54,14 +54,6 @@ Nathan.Anderson@Petersoncorp.com
 - Anderson, N., & Bulkeley, D., (2019). *Bark Removal Apparatus for Chipping Machine*. (US 2019/0291298 A1). U.S. Patent and Trademark Office
 - Anderson, N., & Windrim, M., (2018). *Adjustable Flail Assembly for Debarking Machine* (US 10,052,788 B2). U.S. Patent and Trademark Office
 
-## Technical Skills
-
-- FEA, Finite Element Analysis (Linear Static, Non-Linear Static, Dynamic Frequency Sweep, Random Vibration, Non-linear Hyperelastic Materials, Modal Analysis, NX Nastran)
-- Autodesk Inventor
-- Siemens Simcenter 3D
-- CFD, Computational Fluid Dynamics
-- Programming (C#, Python, Basic, VBA, Matlab)
-
 ## References
 
 - Jody Volner, VP Operations Mobile Equipment, Astec Industries, 541.968.1955

@@ -53,52 +53,80 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
+	font-size: 80%;
+	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
-	color:#333;
+	margin-top: 1em;
+	margin-left: 10;
 }
 
 p {
 	position: relative;
 	left: 18%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%;
+	/* width: 65%; */
 }
 
 code {
 	font: normal normal;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: rgb(247, 150, 70);
+	color: #aaa;
 }
 
 p code {
-	position: absolute;
-	left: -11%;
+	/* position: absolute; */
+	/* left: -14%; */
 }
 
 
-ul { 
+ul, ol { 
+	position: relative;
 	left: 18%;
-	width: 80%;
-	margin-bottom: 2em;
-	position:relative;
-	/*margin-top: -0.5em;*/
+	width: 70%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+	border-top: 2px solid lightgray;
+	border-left: 2px solid lightgray;
+	padding-top: .5em;
 }
 
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
+li {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+	/* padding-right: 1em; */
+	/* margin-bottom: 1em; */
+	margin-left: 2.5em;
+}
+
+li:before {
+	content: "\00BB \00BB";
+	color: rgb(247, 150, 70);
+	margin-left: -2em;
+	margin-right: 2em;
+}
 
 li ul {
 	position: relative;
-	left: 0;
-	width: Auto;
+	left: 30px;
+	width: 100%;
 	margin-top: 0.25em;
-	Padding-left: 2em;
-	list-style: disc;
+	border: none;
+}
+
+li ul li:before {
+	content: none;
 }
 
 h1,h2,h3,h4 {
@@ -125,31 +153,24 @@ h2 {
 	font-size: 1.1em;
 	color: rgb(79, 129, 189);
 	margin-top: 2em;
-	margin-bottom: 0.5em;
-	top: 1.2em;
-	text-align: left;
-	width: 100%;
-	border-bottom: 1px solid #eaecef;
-	text-transform: uppercase;
-}
-
-h2+p {
-	margin-top: 2.5em;
+	position: relative;
+	top: 1.3em;
+	text-align: right;
+	width: 14%;
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
-	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -159,8 +180,8 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
-	color: #ccc;
+	left: 33%;
+	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -170,20 +191,44 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e 
+	font-weight: bold;
+	font-style: italic;
 }
 
 strong {
-	font-weight: normal;
-	color: #111;
+	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
 }
 
 #nathan-anderson-pe {
 	color: rgb(79, 129, 189);
 }
+
+code {
+	color: rgb(247, 150, 70);
+	margin-left: -2em;
+	margin-right: 1em;
+}
+
+#education li, #experience li {
+	list-style: none;
+}
+li p {
+	left:auto;
+}
+
+ol li:before {
+	content: none;
+}
+
+h1 code {
+	margin: auto;
+}
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/

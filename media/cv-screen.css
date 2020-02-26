@@ -58,7 +58,7 @@ body {
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
-	margin-left: 1em;
+	margin-left: 35;
 }
 
 p {
@@ -66,7 +66,7 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	/* width: 65%; */
 }
 
 code {
@@ -77,12 +77,12 @@ code {
 }
 
 p code {
-	position: absolute;
-	left: -14%;
+	/* position: absolute; */
+	/* left: -14%; */
 }
 
 
-ul { 
+ul, ol { 
 	position: relative;
 	left: 33%;
 	width: 35%;
@@ -105,14 +105,16 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+	/* padding-right: 1em; */
+	/* margin-bottom: 1em; */
+	margin-left: 2.5em;
 }
 
 li:before {
 	content: "\00BB \00BB";
 	color: rgb(247, 150, 70);
-	margin: 10px;
-
-
+	margin-left: -2em;
+	margin-right: 2em;
 }
 
 li ul {
@@ -207,10 +209,23 @@ strong {
 
 code {
 	color: rgb(247, 150, 70);
+	margin-left: -2em;
+	margin-right: 1em;
 }
 
 #education li, #experience li {
 	list-style: none;
+}
+li p {
+	left:auto;
+}
+
+ol li:before {
+	content: none;
+}
+
+h1 code {
+	margin: auto;
 }
 
 /*
