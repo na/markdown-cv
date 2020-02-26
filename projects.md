@@ -1,3 +1,9 @@
+---
+layout: cv
+title: Nathan Anderson's CV
+permalink: /projects/
+---
+
 # Project Summary - Nathan Anderson
 
 ## Larger Disc Chipper Frame Analysis
